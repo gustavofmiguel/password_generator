@@ -5,7 +5,7 @@ O projeto é um gerador de senhas, onde o usuário escolhe a quantidade de carac
 <br>
 Exercício para aperfeiçoar minhas habilidades em Javascript
 <br>
-[ Clique aqui para acessar](https://gustavofmiguel.github.io/password_generator/)
+<a href="https://gustavofmiguel.github.io/password_generator/" target="_blank">Clique aqui para acessar</a>
 
 
 
