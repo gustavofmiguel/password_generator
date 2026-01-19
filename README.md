@@ -12,8 +12,10 @@ Exercício para aperfeiçoar minhas habilidades em Javascript
 #
 ## 💻 Tecnologias utilizadas
 
-<img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - HTML <br>
-<img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - CSS <br>
-<img align="center" alt="JavaScript" height="20" width="20" src="https://www.svgrepo.com/show/349419/javascript.svg"> - JavaScript <br>
+<img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
+<img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  - 
+<img align="center" alt="JavaScript" height="30" width="30" src="https://www.svgrepo.com/show/349419/javascript.svg">
 
+## 📸 Demonstração 
 
+<img src="https://i.imgur.com/owf30H9.png">
